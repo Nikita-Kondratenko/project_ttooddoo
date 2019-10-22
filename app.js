@@ -28,9 +28,9 @@
 //             out += '<input type="checkbox">';
 //         }
 //         out += list[key].todo + '<br>';
-        
+
 //     }
 //     document.getElementById('output').innerHTML = out;
-    
+
 // }
 // }
